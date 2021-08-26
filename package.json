@@ -1,0 +1,20 @@
+{
+	"name": "atds-ppf",
+	"version": "0.2.0",
+	"description": "Administrador de Transferencias para toDus (S3) - Programa Piscina de Fichas",
+	"main": "web.js",
+	"author": {
+		"name": "Leinier Cruz Salfran",
+		"mail": "leiniercs@gmail.com"
+	},
+	"license": "NOLICENSE",
+	"private": true,
+	"devDependencies": {
+		"@types/sqlite3": "latest",
+		"@types/ws": "latest"
+	},
+	"dependencies": {
+		"sqlite3": "latest",
+		"ws": "latest"
+	}
+}
